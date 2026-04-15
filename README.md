@@ -1,8 +1,8 @@
 **Machine Learning — Course Project**
 
-**Course:** CSE445 (Machine Learning)
-**Institution:** North South University
-**Instructor:** Dr. Mohammad Shifat-E-Rabbi (MSRB)
+-**Course:** CSE445 (Machine Learning)
+-**Institution:** North South University
+-**Instructor:** Dr. Mohammad Shifat-E-Rabbi (MSRB)
 
 **GROUP MEMBERS:**
 1. Shahriar Swanon (2231540642)
