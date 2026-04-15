@@ -1,10 +1,10 @@
-**Machine Learning — Course Project** </br>
+<h4>**Machine Learning — Course Project**</h4>h4 </br>
 
 **Course:** CSE445 (Machine Learning)</br>
 **Institution:** North South University<br>
 **Instructor:** Dr. Mohammad Shifat-E-Rabbi (MSRB)
 
-**GROUP MEMBERS:**
+<h4>**GROUP MEMBERS:**<h4>
 1. Shahriar Swanon (2231540642)
 2. Md. Abu Sufian Protik (2312234042)
 3. Md. Faiaz Bin Hayder (2222629042)
