@@ -10,10 +10,10 @@
 3. Md. Faiaz Bin Hayder (2222629042)
 4. Khandakar Atikur Ahsan (2222120642)
 
-This repository contains the implementation and resources for a custom image classification model developed as part of the CSE445 (Machine Learning) course project. The objective is to design, train, and evaluate a robust classifier capable of distinguishing between five animal classes: Dog, Cow, Cat, Lamb, and Zebra.
+This repository contains the implementation for a custom image classification model developed as part of the CSE445 (Machine Learning) course project. The objective is to design, train, and evaluate a robust classifier capable of distinguishing between five animal classes: Dog, Cow, Cat, Lamb, and Zebra.
 
 **Project Overview**
-The project demonstrates the end-to-end process of building an image classification system using machine learning techniques. It covers dataset preparation, preprocessing, model selection, training, evaluation, and result analysis. The primary goal is to achieve at least 90% accuracy in classifying the five animal categories.
+The project demonstrates the end-to-end process of building an image classification system using machine learning techniques. It covers dataset preparation, preprocessing, model selection, training, evaluation, and result analysis. The primary goal is to achieve at least 90% accuracy in classifying the five animal categories. We used 4 different models to achieve the 90% accuracy.  
 
 **Key Features**
   1. **Custom Dataset:** 100+ images per class, organized for supervised learning.
