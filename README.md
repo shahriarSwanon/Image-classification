@@ -31,4 +31,37 @@ The project demonstrates the end-to-end process of building an image classificat
   2. Understand the workflow of building and evaluating image classifiers.
   3. Develop skills in data collection, preprocessing, and model selection.
 
-  
+  # 🐾 Animal Image Classifier(Random forest model)
+
+
+A machine learning project that classifies animals using
+Random Forest + ResNet50 CNN features.
+
+## 📊 Project Details
+- **Classes:** Dog, Cat, Cow, Lamb, Horse
+- **Images:** 100 per class (500 total)
+- **Model:** Random Forest (500 trees)
+- **Feature Extractor:** ResNet50 (CNN)
+- **Accuracy:** 91% ✅
+
+## 🛠️ Tools Used
+- Python
+- Google Colab
+- TensorFlow / Keras
+- Scikit-learn
+- Gradio
+
+## 📁 Project Structure
+animal_classifier/
+├── Animal_Classifier.ipynb  ← Main notebook
+├── confusion_matrix_cnn.png ← Results
+├── rf_cnn_model.pkl         ← Trained model
+└── cnn_scaler.pkl           ← Scaler
+
+## 🚀 How to Run
+1. Open Animal_Classifier.ipynb in Google Colab
+2. Run all cells in order
+3. Test using the Gradio dashboard
+
+## 📈 Results
+![Confusion Matrix](confusion_matrix_cnn.png)
